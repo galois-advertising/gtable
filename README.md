@@ -14,4 +14,17 @@ The most typical application scenario is : synchronizing the data in the busines
 
 This model has been proved to be efficient in the industrialized online advertising retrieval system.
 
-# Galois Query Language
+# Quick start
+
+## Install gtable tools
+
+* [Install `gtable-parser`](https://github.com/galois-advertising/gtable-parser)
+
+* [Install `gtable-generator`](https://github.com/galois-advertising/gtable-generator)
+
+## Define db schema and query description.
+
+## Generate .h/.cpp interface and implemention.
+
+## Integrated .h/.cpp into your system.
+
