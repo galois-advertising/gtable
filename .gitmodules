@@ -1,0 +1,16 @@
+[submodule "gtable-parser"]
+	path = gtable-parser
+	url = https://github.com/galois-advertising/gtable-parser
+	branch = master
+[submodule "gtable-generator"]
+	path = gtable-generator
+	url = https://github.com/galois-advertising/gtable-generator
+	branch = master
+[submodule "gdatabus"]
+	path = gdatabus
+	url = https://github.com/galois-advertising/gdatabus
+	branch = master
+[submodule "freyja"]
+	path = freyja
+	url = https://github.com/galois-advertising/freyja
+	branch = master
