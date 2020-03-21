@@ -1,3 +1,8 @@
+
+# Galois Table
+
+![logo](galois-framework.jpeg)
+
 `Galois table` (gtable) is a in-memory relational database (RDBMS) module implemented by modern C++, which supports large-scale real-time data synchronization and storage, and C++ pre-compiled SQL liked database query language `Galois table query language` (GQL).
 
 
